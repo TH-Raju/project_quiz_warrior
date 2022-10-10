@@ -14,13 +14,13 @@ const Header = () => {
                             <Link to='/home' className="flex items-center px-4 -mb-1 border-b-2 dark:border-transparent hover:text-red-800">Home</Link>
                         </li>
                         <li className="flex">
-                            <Link to='/about' className="flex items-center px-4 -mb-1 border-b-2 dark:border-transparent hover:text-red-800">About</Link>
+                            <Link to='/topics' className="flex items-center px-4 -mb-1 border-b-2 dark:border-transparent hover:text-red-800">Topics</Link>
+                        </li>
+                        <li className="flex">
+                            <Link to='/statistics' className="flex items-center px-4 -mb-1 border-b-2 dark:border-transparent hover:text-red-800">Statistics</Link>
                         </li>
                         <li className="flex">
                             <Link to='/blog' className="flex items-center px-4 -mb-1 border-b-2 dark:border-transparent hover:text-red-800">Blog</Link>
-                        </li>
-                        <li className="flex">
-                            <Link to='/project' className="flex items-center px-4 -mb-1 border-b-2 dark:border-transparent hover:text-red-800">Projects</Link>
                         </li>
                     </ul>
                     <button className="flex justify-end p-4 md:hidden">
