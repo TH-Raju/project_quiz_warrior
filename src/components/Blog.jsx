@@ -8,7 +8,7 @@ const Blog = () => {
                 <p className="mt-4 mb-8 dark:text-gray-700">Here are the Some important Question </p>
                 <div className="space-y-4">
                     <details className="w-full border rounded-lg">
-                        <summary className="px-4 py-6 focus:outline-none focus-visible:ring-violet-400 font-bold text-lg">What is the purpose of react router scelerisque?</summary>
+                        <summary className="px-4 py-6 focus:outline-none focus-visible:ring-violet-400 font-bold text-lg">What is the purpose of react router?</summary>
                         <p className="px-4 py-6 pt-0 ml-4 -mt-4 dark:text-gray-700">React Router is a standard library for routing in React. It enables the navigation among views of various components in a React Application, allows changing the browser URL, and keeps the UI in sync with the URL </p>
                     </details>
                     <details className="w-full border rounded-lg">

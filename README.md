@@ -3,13 +3,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Documentation About This Project
-* list.\
+
+This project create for Quizes.\
+You may Check your Basic knowladge with some Quizes.\
+It's a simple Website Using API and React js.
+
 * JavaScript
 * React
 * Tailwind Css
 * Mamba UI
 
-Live Project [https://quizwarrior.netlify.app/]
+Live Site: [https://quizwarrior.netlify.app/]
+
+
+# Happy Coding.
 
 
 ## Available Scripts

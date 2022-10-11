@@ -11,7 +11,7 @@ const QuizCard = ({ quiz }) => {
                     <div className="flex flex-col justify-between p-6 space-y-8">
                         <div className="space-y-2">
                             <h2 className="text-3xl font-semibold tracking-wide">{name}</h2>
-                            <p className="dark:text-gray-100">Total: {total}</p>
+                            <p className="dark:text-gray-100">Total: {total} Quiz</p>
                         </div>
                         <Link to={`../quiz/${id}`}>
                             <button type="button" className="flex items-center justify-center w-full p-3 font-semibold tracking-wide rounded-md dark:bg-violet-400 dark:text-gray-900">Start</button>
