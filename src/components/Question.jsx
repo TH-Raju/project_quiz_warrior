@@ -14,8 +14,6 @@ const Question = ({ Quizquestions }) => {
         });
     }
 
-
-
     const findValue = (id) => {
         if (id === correctAnswer) {
             toast.success("👌 Wow You're Correct!", {
