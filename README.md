@@ -6,11 +6,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project create for Quizes.\
 You may Check your Basic knowladge with some Quizes.\
-It's a simple Website Using API and React js.
+It's a simple Website Using--- 
 
 * JavaScript
 * React
 * Tailwind Css
+* API [https://openapi.programming-hero.com/api/quiz]
+* Dynamic API [https://openapi.programming-hero.com/api/quiz/{id}]
 * Mamba UI
 
 Live Site: [https://quizwarrior.netlify.app/]
