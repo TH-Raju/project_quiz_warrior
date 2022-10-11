@@ -4,10 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Documentation About This Project
 * list.\
-“*” JavaScript
-“*” React
-“*” Tailwind Css
-“*” Mamba UI
+* JavaScript
+* React
+* Tailwind Css
+* Mamba UI
 
 Live Project [https://quizwarrior.netlify.app/]
 
