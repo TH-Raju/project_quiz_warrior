@@ -6,10 +6,10 @@ const Header = () => {
         <div>
             <header className="p-4">
                 <div className="container flex justify-between h-16 mx-auto ">
-                    <h1 className="flex items-center p-2 text-3xl font-bold">Quiz <span className="text-red-700 ml-1" > Warrior</span>
+                    <h1 className="flex items-center p-2 text-4xl font-bold">Quiz <span className="text-red-700 ml-1" > Warrior</span>
                     </h1>
 
-                    <ul className="items-stretch hidden space-x-3 text-1xl font-bold md:flex ">
+                    <ul className="items-stretch hidden space-x-3 text-2xl font-bold md:flex ">
                         <li className="flex">
                             <Link to='/home' className="flex items-center px-4 -mb-1 border-b-2 dark:border-transparent hover:text-red-800">Home</Link>
                         </li>
