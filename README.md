@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Documentation About This Project
+“*” JavaScript
+“*” React
+“*” Tailwind Css
+“*” Mamba UI
+
+Live Project [https://quizwarrior.netlify.app/]
+
+
 ## Available Scripts
 
 In the project directory, you can run:
